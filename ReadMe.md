@@ -1,0 +1,1 @@
+Esse é um pequeno projeto que fiz utilizando o sistema de condicionais para calcular as raizes reais de uma equação de 2 grau.
